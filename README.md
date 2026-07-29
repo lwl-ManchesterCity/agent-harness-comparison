@@ -307,4 +307,4 @@ skill-name/
 
 ## License
 
-MIT
+See [LICENSE](LICENSE) file for details.
